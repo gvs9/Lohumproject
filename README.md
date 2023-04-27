@@ -12,4 +12,4 @@ when the user makes a GET request to this route "/price" it returns the current 
 
 Run this command in terminal-> pip install flask requests beautifulsoup4 
  after  that run python file
- this will start the Flask server and you can access the API by sending a GET request to the URL "http://localhost:5000/price" in your browser or any HTTP client.
+ this will start the Flask server and you can access the API by sending a GET request to the URL http://localhost:5000/price in your browser or any HTTP client.
